@@ -2,21 +2,21 @@
 
 
 
-Tämä on \*\*ensimmäinen\*\* GitHub-projektini.
+Tämä on **ensimmäinen** GitHub-projektini.
 
 
 
-\## Mitä opin
+## Mitä opin
 
-\- Repositorio ja commit
+- Repositorio ja commit
 
-\- Branch ja pull request
+- Branch ja pull request
 
-\- GitHub Desktop
+- GitHub Desktop
 
 
 
-\## Linkit
+## Linkit
 
-\[Oma profiilini](https://github.com/MickH23)
+[Oma profiilini](https://github.com/MickH23)
 
