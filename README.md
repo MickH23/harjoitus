@@ -1,7 +1,22 @@
-# harjoitus
+\# Harjoitusprojekti
 
-Opettelen GitHubia
-Tämä rivi tuli pull requestin kautta
 
-Tämä tuli omalta koneelta
+
+Tämä on \*\*ensimmäinen\*\* GitHub-projektini.
+
+
+
+\## Mitä opin
+
+\- Repositorio ja commit
+
+\- Branch ja pull request
+
+\- GitHub Desktop
+
+
+
+\## Linkit
+
+\[Oma profiilini](https://github.com/MickH23)
 
