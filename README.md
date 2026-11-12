@@ -1,1 +1,2 @@
 # harjoitus
+Opettelen GitHubia
